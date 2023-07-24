@@ -1,0 +1,16 @@
+
+#home{
+    background-image: url(../imges/1.jpg);
+    background-size: cover;
+    height: 100vh;
+  
+}
+img{
+    height: 200px;
+}
+h6{
+    height: 50px;
+}
+.nav-link{
+    cursor:pointer;
+}
